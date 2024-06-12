@@ -1,18 +1,5 @@
 <h1 align = "center"> Speech Recognition in Python </h1>
 
-
-Python-Speech-Recognition
----------------------------
-
-This repository of basic examples on performing Speech Recognitionin Python using Google Speech Recognition Engine.
-
-
-The original article
--------------------------
-
-To see full article with explanation on source code from this repository **[Click here](https://kalebujordan.com/python-speech-recognition)**
-
-
 Getting started 🔧
 --------------------
 Firstly before we begin exploring the source code, you might wanna *clone* or *download* the repository
@@ -82,7 +69,7 @@ To run the Example do the following
 $ python3 app_audio.py 
     Done recording
     Recognizing the text
-    Decoded Text : python programming is the best of all by Jordan
+    Decoded Text : My name is Tamanna Sagar
 ```
 
 Recognizing From Long Audio File 
@@ -100,23 +87,5 @@ To run the example do the Following
 $ python3 app_audio.py 
     Done recording
     Recognizing the text
-    Decoded Text : python programming is the best of all by Jordan
+    Decoded Text : My name is Tamanna Sagar from NSUT
 ```
-
-Explore and build your own thing
----------------------------------
-
-Well Hope you had amazing time practicing Some Speech Recognition Now It's your turn to create something useful out of what you just learned.
-
-
-Give it a star 
---------------
-Did you find this information useful, then give it a star 
-
-
-Credits
------------
-All the credits to [kalebu](github.com/kalebu) 
-
-
-*The Only limits are the one you have set upon yourself @unkown*
